@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Pantry Recepies</string>
+    <string name="RecepieTitle">Title</string>
+    <string name="RecepieMakingTime">Making Time:</string>
+    <string name="RecepieServings">Servings:</string>
+    <string name="ViewRecepie">View Recepie</string>
+    <string name="Save">Save</string>
+    <string name="Ingredients">Ingredients</string>
+    <string name="Recepies">Recepies</string>
+    <string name="SavedRecepies">Your Saved Recepies</string>
+    <string name="Favorites">Favorites</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ShowIngredients">Show More</string>
+    <string name="IngredientsList">Ingredients List</string>
+    <string name="Logout">Logout</string>
+    <string name="WhatsApp">WhatsApp</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/IngredientsPage"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_shopping_cart_24"
+        android:title="Ingredients"/>
+    <item
+        android:id="@+id/RecepiesPage"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_menu_book_24"
+        android:title="Recepies"/>
+    <item
+        android:id="@+id/SavedPage"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_favorite_24"
+        android:title="Favorites"/>
+    <item
+        android:id="@+id/SettingsPage"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="Settings"/>
+</menu>
